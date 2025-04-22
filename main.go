@@ -2,13 +2,23 @@ package main
 
 import (
 	"HangmanProject/game"
+	"fmt"
 	// "fmt"
 	// "strings"
 )
 
 func main() {
-	game.SelectingWord()
-	game.Play()
+	for {
+		game.SelectingWord()
+		game.Play()
+		fmt.Println("Do you wanna Play again ? 'y' Or 'n'")
+		var i string
+		fmt.Scanf("%s", &i)
+		if i != "y" {
+			break
+		}
+
+	}
 	//Derive a word we have to guess --------------> Done
 
 	//Printing game states
