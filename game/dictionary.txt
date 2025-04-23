@@ -12,4 +12,4 @@
 "monday","tuesday","wednesday","thursday","friday","saturday","sunday","january","february","march","april","may","june","july","august","september","october","november","december",
 "circle","square","triangle","rectangle","oval","cube","sphere","pyramid","cone","cylinder","hexagon","pentagon","diamond","star","heart","line","curve","angle","segment","arc",
 "fire","water","earth","air","light","dark","ice","metal","wood","stone","lava","snow","wind","thunder","storm","cloud","rain","fog","shadow","sun",
-"run","jump","walk","swim","fly","sit","stand","crawl","climb","drive","ride","throw","catch","kick","hit","dance","sing","read","write","draw","Ethan",
+"run","jump","walk","swim","fly","sit","stand","crawl","climb","drive","ride","throw","catch","kick","hit","dance","sing","read","write","draw","Ethan","Tehran"
